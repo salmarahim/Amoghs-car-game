@@ -1,1 +1,2 @@
-# Amoghs-car-game
+# synchronousBallMovement
+Ball moving synchronously
